@@ -1,3 +1,6 @@
+"engines": {
+    "node": "20.x"
+  },
 {
   "name": "@drawnix/source",
   "version": "0.0.2",
